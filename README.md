@@ -15,10 +15,6 @@ List of components I used:
 # Functionalities
 The basic function of the robot is to detect an object, by reading the data from 3 IR sensors. Depending on which IR sensor detects an obstacle, the robot will reverse and deviae either left or right of the obstacle.
 
-# Circuit Schematic
-
-*Placeholder for circuilt diagram*
-
 # Video of the product
 
 https://drive.google.com/file/d/1hg6k2lTK8DNVl5nYwl0EB_l1IkgrGBWC/view?usp=sharing
