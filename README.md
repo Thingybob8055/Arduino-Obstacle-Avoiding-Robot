@@ -2,7 +2,8 @@
 A simple Arduino obstacle avoiding car using IR sensors
 
 This project aims to make a simple Arduino obstacle avoidong car.
-List of components I used:\
+
+List of components I used:
 - Arduino Uno (with cable) (x1)
 - IR Sensor Modules (x3)
 - L293D Motor Driver (x1)
