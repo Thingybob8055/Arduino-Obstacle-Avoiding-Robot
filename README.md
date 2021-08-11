@@ -1,4 +1,4 @@
-# Arduino-Obstacle-Avoiding-Robot
+# Arduino Obstacle Avoiding Robot
 This project aims to make a simple Arduino obstacle avoidong car.
 
 List of components I used:
@@ -14,3 +14,7 @@ List of components I used:
 
 # Functionalities
 The basic function of the robot is to detect an object, by reading the data from 3 IR sensors. Depending on which IR sensor detects an obstacle, the robot will reverse and deviae either left or right of the obstacle.
+
+# Video of the product
+
+*placeholder for google drive link*
