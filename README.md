@@ -21,4 +21,4 @@ https://drive.google.com/file/d/1hg6k2lTK8DNVl5nYwl0EB_l1IkgrGBWC/view?usp=shari
 
 ***Note:*** *In the video, the robot pauses for a bit before avoiding, this is because the battery was running out at the time of recording.*
 
-Sorry for the poor video quality. I will try to make better videos for future projects.
+Sorry for the poor video quality. I will try to make better videos for any future projects.
