@@ -13,7 +13,7 @@ List of components I used:
 - 9V battery connector (x2)
 
 # Functionalities
-The basic function of the robot is to detect an object, by reading the data from 3 IR sensors. Depending on which IR sensor detects an obstacle, the robot will reverse and deviae either left or right of the obstacle.
+The basic function of the robot is to detect an object, by reading the data from 3 IR sensors. Depending on which IR sensor detects an obstacle, the robot will reverse and devitae either left or right of the obstacle.
 
 # Video of the product
 
